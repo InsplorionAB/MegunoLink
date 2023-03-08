@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<megunolink-developer-solution>
+  <release-settings>
+    <product-name />
+    <upgrade-code>9b4eee4c-0d10-4cfa-a965-8821c923b46c</upgrade-code>
+    <product-version>23.3.3.0</product-version>
+    <output-path>Deploy</output-path>
+    <output-path-is-relative>true</output-path-is-relative>
+    <project-items />
+    <support-items />
+  </release-settings>
+  <installer-stub>Host-MLP</installer-stub>
+  <custom-license />
+</megunolink-developer-solution>
